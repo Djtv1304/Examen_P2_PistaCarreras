@@ -1,2 +1,3 @@
 "# Examen_P2_PistaCarreras" 
-Link del video: https://udlaec-my.sharepoint.com/:v:/g/personal/diego_toscano_udla_edu_ec/EZtAM2dSmLlHjuOic1ieX0gBVefFk_HBeWXZjukwgvxSsg?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+
+Link del video: https://udlaec-my.sharepoint.com/:v:/g/personal/diego_toscano_udla_edu_ec/EZtAM2dSmLlHjuOic1ieX0gBMEfvxJubhlyDAO8CHAbZLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kFRe49
